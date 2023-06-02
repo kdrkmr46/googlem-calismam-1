@@ -69,6 +69,7 @@ body {
   width: 460px;
   height: 38px;
   padding-top: 3px;
+  border-radius: 25px;
   border: 1px solid #d3d3d3;
   margin: 20px auto;
 }
@@ -82,4 +83,13 @@ body {
   width: 15px;
   vertical-align: middle;
   cursor: pointer;
+}
+.main__search-bar--input {
+  width: 350px;
+  height: 25px;
+  border: none;
+  outline: none;
+  vertical-align: middle;
+  font-size: 14px;
+  
 }
